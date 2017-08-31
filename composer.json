@@ -2,7 +2,7 @@
   "name": "tomas-st/magento2-module-catalog-import-command",
   "description": "Import catalog via console command",
   "type": "magento2-module",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "license": "MIT",
   "require": {
     "magento/module-import-export": "100.*"
